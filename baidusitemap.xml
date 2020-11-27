@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://oneton.tk/%E9%9D%A0%E5%89%8D%E5%86%B2%E5%88%BADay7/</loc>
+    <lastmod>2020-11-27</lastmod>
+  </url>
+  <url>
     <loc>https://oneton.tk/%E9%9D%A0%E5%89%8D%E5%86%B2%E5%88%BADay5/</loc>
     <lastmod>2020-11-26</lastmod>
   </url>
@@ -21,11 +25,11 @@
     <lastmod>2020-08-26</lastmod>
   </url>
   <url>
-    <loc>https://oneton.tk/CSP-S2019%E6%B8%B8%E8%AE%B0/</loc>
+    <loc>https://oneton.tk/math/</loc>
     <lastmod>2020-08-26</lastmod>
   </url>
   <url>
-    <loc>https://oneton.tk/math/</loc>
+    <loc>https://oneton.tk/CSP-S2019%E6%B8%B8%E8%AE%B0/</loc>
     <lastmod>2020-08-26</lastmod>
   </url>
 </urlset> 
